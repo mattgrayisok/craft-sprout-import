@@ -2,6 +2,7 @@
     "name": "barrelstrength/sprout-import",
     "description": "Import content and settings. Generate fake data.",
     "type": "craft-plugin",
+    "version": "1.0.3",
     "keywords": [
         "craft",
         "cms",
@@ -10,12 +11,10 @@
         "sprout import"
     ],
     "license": "proprietary",
-    "authors": [
-        {
-            "name": "Barrel Strength",
-            "homepage": "https://www.barrelstrengthdesign.com/"
-        }
-    ],
+    "authors": [{
+        "name": "Barrel Strength",
+        "homepage": "https://www.barrelstrengthdesign.com/"
+    }],
     "support": {
         "email": "sprout@barrelstrengthdesign.com",
         "issues": "https://github.com/barrelstrength/sprout-import/issues?state=open",
