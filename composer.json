@@ -1,7 +1,6 @@
 {
     "name": "barrelstrength/sprout-import",
     "description": "Import content and settings. Generate fake data.",
-    "version": "1.0.2",
     "type": "craft-plugin",
     "keywords": [
         "craft",
